@@ -15,7 +15,7 @@
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  background-color: #f2f3f4;
+  background-color: #fff;
 }
 
 .profile__header {
@@ -51,7 +51,7 @@
   box-sizing: border-box;
 }
 
-.profile__items > h2 {
+.profile__items > h2{
   font-size: 20px;
   width: 100%;
   font-weight: 700;

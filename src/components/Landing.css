@@ -1,5 +1,7 @@
 .landing-container {
-  background: url("../images/fam-sunset.jpg") center center/cover no-repeat;
+  /* background: url("../images/img-home-landing.jpg") center center/cover no-repeat; */
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+  url("../images/img-home-landing.jpg") center center/cover no-repeat;
   height: 90vh;
   width: 100%;
   display: flex;

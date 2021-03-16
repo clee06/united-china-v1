@@ -18,7 +18,8 @@ function ServicesIntro() {
                         <h3 className='services__title'> Corporate Multi-Risk Solutions </h3>
                         <p className='services__info'> 
                         Business Package Insurance <br/>
-                        Office Package Insurance
+                        Office Package Insurance <br />
+                        Shop / Retailer Package Insurance 
                         </p>
                     </div>
                 </div>
@@ -29,7 +30,7 @@ function ServicesIntro() {
                         <h3 className='services__title'> Property Insurance </h3>
                         <p className='services__info'> 
                         Fire & Allied Insurance <br/> 
-                        All Risks Insurance <br />
+                        Property All Risks Insurance <br />
                         Theft Insurance
                         </p>
                     </div>
@@ -50,7 +51,7 @@ function ServicesIntro() {
                         Marine Insurance <br/>
                         Inland Transit Insurance <br/>
                         Bulk Shipment Insurance <br/>
-                        Charterers Liability <br/>
+                        Freight Fowarder Liability Insurance <br/>
                         </p>
                     </div>
                 </div>
@@ -60,9 +61,9 @@ function ServicesIntro() {
                     <div className='services__leftInfo'>
                         <h3 className='services__title'> Financial Line Insurance </h3>
                         <p className='services__info'> 
-                        Loss of Profit / Business<br/> 
-                        All Risks Insurance <br />
-                        Theft Insurance
+                        Director & Officer Liability Insurance<br/> 
+                        Kidnap & Ransom Insurance <br />
+                        Fraud & Crime Insurance
                         </p>
                     </div>
 
@@ -79,10 +80,11 @@ function ServicesIntro() {
                     <div className='services__rightInfo'>
                         <h3 className='services__title'> Liability Insurance </h3>
                         <p className='services__info'> 
-                        Employee Compensation <br/>
-                        Public Liability <br/>
-                        Director and Officers Liability <br/>
-                        Product Liability
+                        Commerical General Liability Insurance <br/>
+                        Products Liability Insurance <br/>
+                        Professional Indemnity Insurance <br/>
+                        Environmental Liability Insurance <br />
+                        Cyber Insurance
                         </p>
                     </div>
                 </div>
@@ -94,7 +96,9 @@ function ServicesIntro() {
                         <p className='services__info'> 
                         Group Medical Insurance <br/> 
                         Senior Office Top Up Medical Plan <br />
-                        Key Man Insurance
+                        Key Man Insurance <br />
+                        Group Life Insurance <br />
+                        Group Wellness Benefits
                         </p>
                     </div>
 

@@ -13,7 +13,7 @@ function About() {
             {/* CEO profile */}
             {/* To be added? */}
             <Background />
-            <BusinessPartners />   
+            {/* <BusinessPartners />    */}
             <ClientProfile />   
             <Footer />
         </div>

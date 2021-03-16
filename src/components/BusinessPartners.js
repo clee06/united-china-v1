@@ -30,10 +30,10 @@ function BusinessPartners() {
                         <p> BUPA </p>           
                     </div>
                     
-                    <div className='partners__item__details'>
+                    {/* <div className='partners__item__details'>
                         <img className='partner__logo' src='../images/insurance-logos/ing-logo.png' alt='logo'></img> 
                         <p> ING Insurance </p>           
-                    </div >    
+                    </div >     */}
 
                     <div className='partners__item__details'>
                         <img className='partner__logo' src='../images/insurance-logos/manulife-logo.png' alt='logo'></img> 
@@ -45,20 +45,20 @@ function BusinessPartners() {
                         <p> MSIG Insurance </p>           
                     </div>     
 
-                    <div className='partners__item__details'>
+                    {/* <div className='partners__item__details'>
                         <img className='partner__logo' src='../images/insurance-logos/metlife-icon.png' alt='logo'></img> 
                         <p> Metlife Insurance </p>           
-                    </div>   
+                    </div>    */}
 
                     <div className='partners__item__details'>
                         <img className='partner__logo' src='../images/insurance-logos/cigna-logo.png' alt='logo'></img> 
                         <p> CIGNA </p>          
                     </div>          
 
-                    <div className='partners__item__details'>
+                    {/* <div className='partners__item__details'>
                         <img className='partner__logo' src='../images/insurance-logos/prudential-logo.png' alt='logo'></img> 
                         <p> Prudential </p>          
-                    </div>  
+                    </div>   */}
 
                     <div className='partners__item__details'>
                         <img className='partner__logo' src='../images/insurance-logos/mm-logo.png' alt='logo'></img> 
